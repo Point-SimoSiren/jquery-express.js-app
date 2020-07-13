@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+
+p {
+    font-family: verdana;
+    font-size: 30px;
+    color: brown;
+  }
+  
+  h1 {
+    color: green;
+    }
+
+    .main {
+      border: chartreuse;
+      border-style: solid;
+      background-color: beige;
+      width: 75%;
+      text-align: center;
+      min-height: 400px;
+      margin-left: 10%;
+    }
